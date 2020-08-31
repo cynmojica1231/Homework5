@@ -30,9 +30,9 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
+My calendar Screenshot:
 
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
+![Calendar Screenshot](Assets/calendar.png)
 
 ## Review
 
@@ -45,5 +45,3 @@ You are required to submit the following for review:
 ---
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-![Calendar Screenshot](calendar.png)
