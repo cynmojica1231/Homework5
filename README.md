@@ -30,9 +30,9 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-My calendar Screenshot:
+My Work Day Scheduler Screenshot:
 
-![Calendar Screenshot](Assets/calendar.png)
+![Work Day Scheduler Screenshot](Assets/calendar.png)
 
 ## Review
 
