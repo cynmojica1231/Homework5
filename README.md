@@ -32,7 +32,7 @@ THEN the saved events persist
 
 My Work Day Scheduler Screenshot:
 
-![Work Day Scheduler Screenshot](Assets/calendar.png)
+![Work Day Scheduler Screenshot](images/calendar.png)
 
 ## Review
 
